@@ -1,7 +1,7 @@
 import type { AppI18nNamespaces } from 'react-i18next';
 import localeConfig from '../../public/locales/config.json';
 
-export const SITE_TITLE = 'HammerTime';
+export const SITE_TITLE = 'aidanTime';
 export const CANONICAL_URL = 'https://hammertime.cyou';
 export const REPOSITORY_URL = 'https://github.com/DJDavid98/HammerTime';
 export const CROWDIN_URL = 'https://crowdin.com/project/hammertime';
